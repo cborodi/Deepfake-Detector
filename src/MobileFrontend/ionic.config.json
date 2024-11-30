@@ -1,0 +1,7 @@
+{
+  "name": "DF_Frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
